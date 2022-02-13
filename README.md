@@ -1,4 +1,4 @@
-Part 1: Sudoku Solver
+# Part 1: Sudoku Solver
 
 Command: 
 `python3 sudoku_solver.py`
@@ -13,7 +13,8 @@ For the first problem we have given the 5 test sudoku- sudoku1,sudoku2..sudoku5.
 Just change the name of the file on line number 10 and then give the size of sudoku for which the test is taking place for first 2 sudoku it is 3 and for last 3 it is 4. and we will be able to see output on screen.
 
 
-Part 2: Sudoku Generator
+
+# Part 2: Sudoku Generator
 
 Command: 
 `python3 sudoku_generator.py`
